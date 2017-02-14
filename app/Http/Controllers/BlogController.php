@@ -10,7 +10,7 @@ use App\User;
 
 class BlogController extends Controller
 {
-    protected $limit = 3;
+    protected $limit = 5;
 
     public function index()
     {
@@ -53,5 +53,10 @@ class BlogController extends Controller
         $post->increment('view_count');
 
         return view("blog.show", compact('post'));
+    }
+
+    public function about(Request $request)
+    {
+        return view("about");
     }
 }

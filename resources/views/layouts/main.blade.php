@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Barış Gündüz | Kişisel Blog</title>
+    <title>/var/www/barış.gündüz/blog</title>
 
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css">
@@ -11,7 +11,7 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-default navbar-fixed-top">
+        <nav class="navbar navbar-inverse navbar-fixed-top">
           <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -27,9 +27,8 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="the-navbar-collapse">
               <ul class="nav navbar-nav navbar-right">
-                <li class="active"><a href="{{ route('blog') }}">Blog</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Contact</a></li>
+                  <li><a href="{{ route('about') }}">About</a></li>
+                  <li><a href="{{ route('blog') }}">Blog</a></li>
               </ul>
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container -->
@@ -38,26 +37,28 @@
 
     @yield('content')
 
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8">
-                    <p class="copyright">&copy; 2016 Edo Masaru</p>
-                </div>
-                <div class="col-md-4">
-                    <nav>
-                        <ul class="social-icons">
-                            <li><a href="#" class="i fa fa-facebook"></a></li>
-                            <li><a href="#" class="i fa fa-twitter"></a></li>
-                            <li><a href="#" class="i fa fa-google-plus"></a></li>
-                            <li><a href="#" class="i fa fa-github"></a></li>
-                        </ul>
-                    </nav>
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8">
+                        <p class="copyright">&copy; Barış Gündüz</p>
+                    </div>
+                    <div class="col-md-4">
+                        <nav>
+                            <ul class="social-icons">
+                                <li><a href="https://www.instagram.com/barisgunduz17/" class="i fa fa-instagram"></a></li>
+                                <li><a href="https://twitter.com/baris_gunduz" class="i fa fa-twitter"></a></li>
+                                <li><a href="https://github.com/barisgunduz/" class="i fa fa-github"></a></li>
+                            </ul>
+                        </nav>
+                    </div>
                 </div>
             </div>
-        </div>
-    </footer>
-
-    <script src="/js/bootstrap.min.js"></script>
-</body>
-</html>
+        </footer>
+        <script
+                src="https://code.jquery.com/jquery-2.2.4.min.js"
+                integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+                crossorigin="anonymous"></script>
+        <script src="/js/bootstrap.min.js"></script>
+    </body>
+    </html>

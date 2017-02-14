@@ -11,6 +11,8 @@
 |
 */
 
+Route::get('/', ['as'=>'about', 'uses'=>'BlogController@about']);
+
 Route::get('/blog', [
     'uses' => 'BlogController@index',
     'as'   => 'blog'

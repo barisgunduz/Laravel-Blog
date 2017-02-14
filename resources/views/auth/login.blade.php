@@ -4,7 +4,7 @@
 
 <div class="login-box">
   <div class="login-logo">
-    <a href="/"><b>My</b>BLOG</a>
+    <a href="/"><b>Native</b>BLOG</a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
