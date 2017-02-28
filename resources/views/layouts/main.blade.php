@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>/var/www/barış.gündüz/blog</title>
+    <title>/var/www/baris.gunduz/blog</title>
 
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css">
@@ -27,8 +27,8 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="the-navbar-collapse">
               <ul class="nav navbar-nav navbar-right">
-                  <li><a href="{{ route('about') }}">About</a></li>
-                  <li><a href="{{ route('blog') }}">Blog</a></li>
+                  <li><a href="{{ route('about') }}"><i class="fa fa-info-circle" aria-hidden="true"></i> About</a></li>
+                  <li><a href="{{ route('blog') }}"><i class="fa fa-rss-square" aria-hidden="true"></i> Blog</a></li>
               </ul>
             </div><!-- /.navbar-collapse -->
           </div><!-- /.container -->

@@ -29,7 +29,7 @@
             </div>
         </div>
 
-        <!-- Popular Posts
+
         <div class="widget">
             <div class="widget-heading">
                 <h4>Popular Posts</h4>
@@ -56,7 +56,30 @@
                 </ul>
             </div>
         </div>
-        -->
+
+        <div class="widget">
+            <div class="widget-heading">
+                <h4>Useful Links</h4>
+            </div>
+            <div class="widget-body">
+                <ul class="categories">
+                    <li>
+                        <a href="//caniuse.com/"><i class="fa fa-angle-right"></i> Can i use?</a>
+                    </li>
+                    <li>
+                        <a href="//www.javascripting.com/"><i class="fa fa-angle-right"></i> Javascript Libraries</a>
+                    </li>
+                    <li>
+                        <a href="https://themeforest.net/?ref=NativeTab"><i class="fa fa-angle-right"></i> Themeforest</a>
+                    </li>
+                    <li>
+                        <a href="https://www.hidemyass.com/vpn/r16103/"><i class="fa fa-angle-right"></i> Hidemyass VPN</a>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+
 
     </aside>
 </div>

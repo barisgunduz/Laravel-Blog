@@ -11,13 +11,28 @@ body {
     background: #fcfcfc  url("../img/body-bg.png");
 }
 
+::-moz-selection { /* Code for Firefox */
+    color: #FFFFFF;
+    background: #f10000;
+}
+
+::selection {
+    color: #FFFFFF;
+    background: #f10000;
+}
+
 a {
     color: #333;
     font-weight: bold;
+    -webkit-transition: 0.4s; /* For Safari 3.1 to 6.0 */
+    transition: 0.4s;
 }
 
 a:hover {
+    color: #f10000;
     text-decoration: none;
+    -webkit-transition: 0.4s; /* For Safari 3.1 to 6.0 */
+    transition: 0.4s;
 }
 
 .pt-10{
