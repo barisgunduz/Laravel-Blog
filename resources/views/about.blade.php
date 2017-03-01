@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>/var/www/baris.gunduz</title>
+    <title>Barış Gündüz | Computer Engineer</title>
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css">
     <link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -27,7 +27,7 @@
                     </p>
                     <p>Feel free to <a href="{{ route('blog') }}" title="blog">read my blog</a>, send me an <a href="mailto:baris.gunduz@nativetab.com" title="email">email</a> or follow me on social.</p>
                     <div class="about-social">
-                        <a href="#" class="i fa fa-instagram fa-2x"></a>
+                        <a href="https://www.instagram.com/barisgunduz17/" class="i fa fa-instagram fa-2x"></a>
                         <a href="#" class="i fa fa-twitter fa-2x"></a>
                         <a href="#" class="i fa fa-github fa-2x"></a>
                     </div>
