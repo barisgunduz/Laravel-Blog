@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>@yield('title', 'NativeBLOG')</title>
+  <title>@yield('title', 'BlogNshare')</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.6 -->
@@ -43,7 +43,7 @@
     <div class="pull-right hidden-xs">
       <b>Version</b> 1.0.1
     </div>
-    <strong>&copy; <a href="http://www.nativetab.com" title="Web Development">NativeTab</a></strong>
+    <strong>&copy; <a href="//www.devstup.org" title="Development">Devstup</a></strong>
   </footer>
 
 </div>

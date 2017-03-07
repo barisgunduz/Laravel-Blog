@@ -1,6 +1,6 @@
 @extends('layouts.backend.main')
 
-@section('title', 'NativeBLOG | Edit user')
+@section('title', 'DevstupCMS | Edit user')
 
 @section('content')
 

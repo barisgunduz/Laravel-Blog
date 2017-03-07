@@ -1,6 +1,6 @@
 @extends('layouts.backend.main')
 
-@section('title', 'MyBlog | Edit Post')
+@section('title', 'BlogNshare | Edit Post')
 
 @section('content')
 

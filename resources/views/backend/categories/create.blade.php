@@ -1,6 +1,6 @@
 @extends('layouts.backend.main')
 
-@section('title', 'NativeBLOG | Add new category')
+@section('title', 'BlogNshare | Add new category')
 
 @section('content')
 

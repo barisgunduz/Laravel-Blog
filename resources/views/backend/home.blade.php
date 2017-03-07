@@ -1,6 +1,6 @@
 @extends('layouts.backend.main')
 
-@section('title', 'NativeBLOG | Dashboard')
+@section('title', 'BlogNshare | Dashboard')
 
 @section('content')
 
@@ -22,7 +22,7 @@
               <div class="box">
                 <!-- /.box-header -->
                 <div class="box-body ">
-                      <h3>Welcome to NativeBLOG!</h3>
+                      <h3>Welcome to BlogNshare!</h3>
                       <p class="lead text-muted">Hello {{ Auth::user()->name }}!</p>
 
                       <h4>Get started</h4>
