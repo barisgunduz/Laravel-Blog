@@ -25,7 +25,7 @@
                     <p>Hi there! I am a front-end developer <span class="highlight">@nmobs</span> , opportunity chaser (yes, ceo) <span class="highlight">@nativetab</span> , ui/ux fancier, tech freak, car maniac, still trying to adapt to civilian life (really belong to nature) , trying to be fucking cool engineer, and something like that.
                         Maybe you just need to know my university. Izmir University of Economics, computer engineering. Yes i am a computer engineer. I love web technologies (mostly javascript &amp; PHP), ui/ux and something like entrepreneurship. At the end i want to be expertised at doing all my works on a yacth (preferably mine).
                     </p>
-                    <p>Feel free to <a href="{{ route('blog') }}" title="blog">read my blog</a>, send me an <a href="mailto:baris.gunduz@nativetab.com" title="email">email</a> or follow me on social.</p>
+                    <p>Feel free to <a href="{{ route('blog') }}" title="blog">read my blog</a>, send me an <a href="mailto:baris.gunduz@devstup.org" title="email">email</a> or follow me on social.</p>
                     <div class="about-social">
                         <a href="https://www.instagram.com/barisgunduz17/" class="i fa fa-instagram fa-2x"></a>
                         <a href="#" class="i fa fa-twitter fa-2x"></a>
