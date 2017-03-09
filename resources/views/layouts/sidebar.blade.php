@@ -76,6 +76,9 @@
                         <a href="https://www.hidemyass.com/vpn/r16103/"><i class="fa fa-angle-right"></i> Hidemyass VPN</a>
                     </li>
                     <li>
+                        <a href="https://m.do.co/c/7db57ba73c92"><i class="fa fa-angle-right"></i> Digital Ocean</a>
+                    </li>
+                    <li>
                         <a href="//www.devstup.org"><i class="fa fa-angle-right"></i> Devstup</a>
                     </li>
 
