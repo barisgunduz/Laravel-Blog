@@ -30,7 +30,7 @@
               <img src="{{ $currentUser->gravatar() }}" class="img-circle" alt="User Image">
 
               <p>
-                {{ $currentUser->name }} - Web Developer                
+                {{ $currentUser->name }} - {{ $currentUser->bio }}
               </p>
             </li>
             <!-- Menu Footer-->
