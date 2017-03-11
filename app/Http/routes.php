@@ -11,6 +11,13 @@
 |
 */
 
+Route::group(['prefix'=>'app'], function() {
+    Route::get('posts', 'ApiController@news');
+    Route::get('posts/{id}', 'ApiController@newsDetail');
+    Route::get('categories', 'ApiController@categories');
+    Route::get('category/{id}', 'ApiController@categoryDetail');
+});
+
 Route::get('/', ['as'=>'about', 'uses'=>'BlogController@about']);
 
 Route::get('/blog', [
