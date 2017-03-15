@@ -18,7 +18,7 @@ Route::group(['prefix'=>'app'], function() {
     Route::get('category/{id}', 'ApiController@categoryDetail');
 });
 
-Route::get('/', ['as'=>'about', 'uses'=>'BlogController@about']);
+Route::get('/', ['as'=>'welcome', 'uses'=>'BlogController@welcome']);
 
 Route::get('/blog', [
     'uses' => 'BlogController@index',

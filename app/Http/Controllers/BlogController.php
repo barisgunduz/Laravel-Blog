@@ -55,8 +55,8 @@ class BlogController extends Controller
         return view("blog.show", compact('post'));
     }
 
-    public function about(Request $request)
+    public function welcome(Request $request)
     {
-        return view("about");
+        return view("welcome");
     }
 }
