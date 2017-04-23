@@ -8,7 +8,7 @@
                 <div class="panel-heading">Welcome</div>
 
                 <div class="panel-body">
-                    Vaktindeye Blog API Home Page
+                    Your Application's Landing Page.
                 </div>
             </div>
         </div>
