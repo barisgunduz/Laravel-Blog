@@ -22,7 +22,7 @@
         <div class="col-md-12 pt-10">
             <div class="info text-center">
                 <div class="about-me-section">
-                    <p>Hi there! I am a software engineer <span class="highlight">@nmobs</span> , opportunity chaser (yes, ceo) <span class="highlight">@devstup</span> , ui/ux fancier, tech freak, car maniac, still trying to adapt to civilian life (really belong to nature) , trying to be fucking cool engineer, and something like that.
+                    <p>Hi there! I am a software engineer <span class="highlight">@ Genart Medya</span> , opportunity chaser (yes, ceo) <span class="highlight">@devstup</span> , ui/ux fancier, tech freak, car maniac, still trying to adapt to civilian life (really belong to nature) , trying to be fucking cool engineer, and something like that.
                         Maybe you just need to know my university. Izmir University of Economics, computer engineering. Yes i am a computer engineer. I love web technologies (mostly javascript &amp; PHP), ui/ux and something like entrepreneurship. At the end i want to be expertised at doing all my works on a yacth (preferably mine).
                     </p>
                     <p>Feel free to <a href="{{ route('blog') }}" title="blog">read my blog</a>, send me an <a href="mailto:baris.gunduz@devstup.org" title="email">email</a> or follow me on social.</p>
@@ -113,7 +113,7 @@
                                 <i class="entypo-suitcase"></i>
                             </div>
                             <div class="timeline-label">
-                                <h4>NMOBS</h4>
+                                <h4>Genart Medya</h4>
                                 <p>Software Engineer</p>
                             </div>
                         </div>
