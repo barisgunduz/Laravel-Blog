@@ -1,8 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
     <title>Barış Gündüz | Computer Engineer</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name=viewport content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="A computer engineer, works for Genart Medya / NMOBS with a title of Ad Tech Engineer. Feel free to connect.">
+
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css">
     <link rel="stylesheet" href="/css/bootstrap.min.css">
@@ -22,14 +27,14 @@
         <div class="col-md-12 pt-10">
             <div class="info text-center">
                 <div class="about-me-section">
-                    <p>Hi there! I am a software engineer <span class="highlight">@ Genart Medya</span> , opportunity chaser (yes, ceo) <span class="highlight">@devstup</span> , ui/ux fancier, tech freak, car maniac, still trying to adapt to civilian life (really belong to nature) , trying to be fucking cool engineer, and something like that.
-                        Maybe you just need to know my university. Izmir University of Economics, computer engineering. Yes i am a computer engineer. I love web technologies (mostly javascript &amp; PHP), ui/ux and something like entrepreneurship. At the end i want to be expertised at doing all my works on a yacth (preferably mine).
+                    <p>Hi there! I am a software engineer <span class="highlight">@ Genart Medya</span> , opportunity chaser (yes, ceo) <span class="highlight">@devstup</span> , ui/ux fancier, tech freak, car maniac, trying to be fucking cool engineer, and something like that.
+                        Maybe you just need to know my university. Izmir University of Economics, computer engineering. Yes i am a computer engineer. I love web technologies (we can say mobile also), ui/ux and something like entrepreneurship. At the end i want to be expertised at doing all my works on a yacth (preferably mine).
                     </p>
                     <p>Feel free to <a href="{{ route('blog') }}" title="blog">read my blog</a>, send me an <a href="mailto:baris.gunduz@devstup.org" title="email">email</a> or follow me on social.</p>
                     <div class="about-social">
                         <a href="https://www.instagram.com/barisgunduz17/" class="i fa fa-instagram fa-2x"></a>
-                        <a href="#" class="i fa fa-twitter fa-2x"></a>
-                        <a href="#" class="i fa fa-github fa-2x"></a>
+                        <a href="https://twitter.com/baris_gunduz" class="i fa fa-twitter fa-2x"></a>
+                        <a href="https://github.com/barisgunduz" class="i fa fa-github fa-2x"></a>
                     </div>
                 </div>
             </div>
@@ -84,7 +89,7 @@
                     </article>
                     <article class="timeline-entry left-aligned">
                         <div class="timeline-entry-inner">
-                            <time class="timeline-time"><span>04.2015 - 10.2015</span> <span>Freelance</span></time>
+                            <time class="timeline-time"><span>04.2015 - now</span> <span>Freelance</span></time>
                             <div class="timeline-icon bg-secondary">
                                 <i class="entypo-suitcase"></i>
                             </div>
@@ -113,8 +118,8 @@
                                 <i class="entypo-suitcase"></i>
                             </div>
                             <div class="timeline-label">
-                                <h4>Genart Medya</h4>
-                                <p>Software Engineer</p>
+                                <h4>Genart Medya / NMOBS</h4>
+                                <p>Ad Tech Engineer</p>
                             </div>
                         </div>
                     </article>
